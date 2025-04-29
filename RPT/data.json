@@ -1,0 +1,42 @@
+[
+    {
+        "Reference_id": "1B136482-4194-6308-91E0-EE55C9021737",
+        "current_age": 85,
+        "retirement_age": 97,
+        "current_savings": "40 922",
+        "monthly_savings": "$4,395.49",
+        "retirement_amt": "₹4,676,784"
+    },
+    {
+        "Reference_id": "DBA3E71C-7DC3-9E2D-1C5B-5E4586CB357D",
+        "current_age": 63,
+        "retirement_age": 36,
+        "current_savings": "51 206",
+        "monthly_savings": "$3,499.53",
+        "retirement_amt": "₹798,590"
+    },
+    {
+        "Reference_id": "68AB8150-8264-5290-844E-C7B48B2DCCE5",
+        "current_age": 46,
+        "retirement_age": 78,
+        "current_savings": "16 275",
+        "monthly_savings": "$8,984.99",
+        "retirement_amt": "₹7,132,545"
+    },
+    {
+        "Reference_id": "2548F4BA-B6FB-D699-4645-2B943E86A558",
+        "current_age": 46,
+        "retirement_age": 68,
+        "current_savings": "26 316",
+        "monthly_savings": "$4,425.98",
+        "retirement_amt": "₹7,485,605"
+    },
+    {
+        "Reference_id": "E2963B5B-76DC-5BC5-CE1F-91764475FBC8",
+        "current_age": 26,
+        "retirement_age": 40,
+        "current_savings": "34 255",
+        "monthly_savings": "$6,905.54",
+        "retirement_amt": "₹3,263,280"
+    }
+]
