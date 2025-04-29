@@ -1,0 +1,20 @@
+[
+    {
+        "Id":"RPT001",
+        "CurrentAge":20,
+        "RetirementAge":50,
+        "CurrentSavings":10000,
+        "TargetSavings":1000000,
+        "MonthlyContribution":5000,
+        "CreatedAt":"2025-04-28T06:38:06.1374873Z"
+    },
+    {
+        "Id":"RPT002",
+        "CurrentAge":30,
+        "RetirementAge":60,
+        "CurrentSavings":14500,
+        "TargetSavings":200000,
+        "MonthlyContribution":500,
+        "CreatedAt":"2025-04-28T06:40:42.7087936Z"
+    }
+]
